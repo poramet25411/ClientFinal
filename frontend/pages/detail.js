@@ -18,24 +18,24 @@ const detail = () => {
 <link href="https://fonts.googleapis.com/css2?family=Itim&display=swap" rel="stylesheet"></link>
 <br></br>
 alisson becker <br></br>
-            <a href="https://www.instagram.com/p/CN-2oLNBYmd/?igshid=1c69w86q6ghga&fbclid=IwAR1HFpgyB6Utxt9vs4BUQARhIWsvkRUYpLCEbxfzqyvCsUdjDIjYqNlpiRs">
-                <img  src="https://th-test-11.slatic.net/p/b31ffbeebbf3770af475723c1c17e50a.jpg_720x720q80.jpg_.webp"  width="250" height="250" ></img></a>   
+            <a href="https://www.instagram.com/alissonbecker/?hl=th">
+                <img  src="https://i.pinimg.com/originals/dc/67/9e/dc679e7aa30d868405544e519fae2ad9.jpg"  width="250" height="250" ></img></a>   
                 <br></br>
-         เจลดับกลิ่นโถส้วม <br></br>
-            <a href="https://www.instagram.com/p/CN-oCcwB5JS/?igshid=1lnarv6lyi038&fbclid=IwAR0AkNoq7QI571BxpqCo2JeNsUK-cG7bLQTjSi637AOsgBg0-UL1bLvkD6g">
-                <img  src="https://cf.shopee.co.th/file/042ee8dad0fb6f29f874785a2809c57d"  width="250" height="250" ></img></a>   
+                Mohamed Salah <br></br>
+            <a href="https://www.instagram.com/mosalah/?hl=th">
+                <img  src="https://i2-prod.liverpool.com/incoming/article23331002.ece/ALTERNATES/s1200c/1_Salah.jpg"  width="250" height="250" ></img></a>   
                 <br></br>
-                โต๊ะเครื่องแป้ง <br></br>
-            <a href="https://www.instagram.com/p/CN3pLMyhju-/?igshid=128ge498mz7n1&fbclid=IwAR0IJkkfL4GHhK_3FCoehB_1pTKNrqO49SEIAR6hoXWc7_Qef5IlvfrZZLc">
-                <img  src="https://cf.shopee.co.th/file/1094041b0a88333b91bce7d123f8a4fc_tn"  width="250" height="250" ></img></a>   
+                Sadio Mane <br></br>
+            <a href="https://www.instagram.com/sadiomaneofficiel/?hl=th">
+                <img  src="https://i2-prod.liverpoolecho.co.uk/incoming/article23382705.ece/ALTERNATES/s1200b/1_GettyImages-1384554540.jpg"  width="250" height="250" ></img></a>   
                 <br></br>
-                เครื่องซักผ้ามินิ <br></br>
-            <a href="https://www.instagram.com/p/CN-5KiNhYYO/?igshid=txpawdn7hmxp&fbclid=IwAR0HdAefM_j1amqNZwWbOcKqaal_APf22DT3oVMUww5NbrojbHLa257-nbs">
-                <img  src="https://th-test-11.slatic.net/p/8e2afcc5818506ecf589a194d837cc9d.jpg"  width="250" height="250" ></img></a>   
+                ROBERTO FIRMINO <br></br>
+            <a href="https://www.instagram.com/roberto_firmino/?hl=th">
+                <img  src="https://i2-prod.liverpoolecho.co.uk/incoming/article21342232.ece/ALTERNATES/s1200c/0_GettyImages-1334150468.jpg"  width="250" height="250" ></img></a>   
                 <br></br>
-                ถุงใส่ผ้า <br></br>
-            <a href="https://www.instagram.com/p/CN72niXBnvE/?igshid=4i1ki8hzzzad&fbclid=IwAR1TCoEIA3wMSq-WwC6paJejsFlO2xtsPE0gMs-I0Dx08b9cGs6HobNxbW8">
-                <img  src="https://cf.shopee.co.th/file/742ccdb1ee03475d4b1712f1918dc002"  width="250" height="250" ></img></a>   
+                Virgil van Dijk <br></br>
+            <a href="https://www.instagram.com/virgilvandijk/?hl=th">
+                <img  src="https://www.si.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTg3NjI4NjY3ODM1MjYyMjA3/imago1010101492h.jpg"  width="250" height="250" ></img></a>   
                 <br></br>
 
         </div>
