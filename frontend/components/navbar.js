@@ -26,31 +26,8 @@ const Navbar = () => (
                <Link href="/profile"><a class="nav-link active"> เกี่ยวกับเรา </a></Link> 
             </li>
             <li class="nav-item">
-               <Link href="/detail"><a class="nav-link active"> รายละเอียดสินค้า </a></Link> 
-            </li>
-            <li class="nav-item">
-               <Link href="/shops"><a class="nav-link active"> รายการสินค้า </a></Link> 
-            </li>
-            <li class="nav-item">
-               <Link href="/admin"><a class="nav-link active"> เพิ่มรายการ </a></Link> 
-            </li>
-            
-
-            <li class="nav-item">
-            <div className={styles.dropdown}>
-                <span>
-                   <a class="nav-link active">วิธีการสั่งซื้อ</a> 
-                </span>
-                <div className={styles.content}>
-                    <p><a class="nav-link active btn btn-sm btn-outline-secondary" href="/delivery">วิธีจัดส่ง</a></p>
-                    <p><a class="nav-link active btn btn-sm btn-outline-secondary" href="/order">แจ้งที่อยู๋</a></p>
-                    <p><a class="nav-link active btn btn-sm btn-outline-secondary" href="/Transfermoney">โอนเงิน</a></p>
-                    
-                </div>
-            </div>
-            </li>
-
-
+               <Link href="/detail"><a class="nav-link active"> รายชื่อนักฟุตบอล </a></Link> 
+            </li>            
             <li class="nav-item">
                <Link href="/comment"><a class="nav-link active"> แสดงความคิดเห็น </a></Link> 
             </li>
